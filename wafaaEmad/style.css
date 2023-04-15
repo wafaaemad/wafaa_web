@@ -1,0 +1,102 @@
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	
+	padding-top: 50px;
+	
+}
+  
+  .logo{
+	position: fixed;
+	top: 0;
+	color: #38d39f;
+	font-weight: bold;
+	font-size: 50px;
+	text-transform: uppercase;
+	padding: 50px;
+	
+  }
+  
+
+  h1 {
+	font-size: 1.5em;
+	text-align: center;
+	text-transform: capitalize;
+	margin-top: 10px;
+  }
+ 
+  span{
+	color:#38d39f;
+	font-size: large;
+	font-weight: bolder;
+  }
+ 
+  
+  form {
+	width: 50%;
+	margin: 10px auto;
+	padding: 16px;
+	border: 1px solid #CCC;
+	border-radius: 25px;
+	background-color: rgb(220, 235, 241);
+   
+  }
+  
+ div{
+	margin-top: 16px;
+	}
+
+input {
+	width: 60%;
+	height: 30px;
+	border: 2px solid rgb(165, 165, 165);
+	padding: 10px 10px;
+	cursor:pointer;
+	
+	
+  }
+  
+  input:hover {
+	border: 2px double rgb(247, 181, 247);
+  }
+  .show{
+	width: 50px;
+	height: 20PX;
+  }
+  
+
+  
+.sub {
+	
+	font-size: 1em;
+	text-transform: capitalize;
+	background-color: #38d39f;
+	color: rgb(17, 17, 17);
+	border: none;
+	padding: 10px 50px;
+	border-radius: 5px;
+    margin-left: 100px;
+	
+  }
+  .bnt{
+	border: none;
+	outline: none;
+	
+  }
+  .error{
+	
+	color: rgb(243, 11, 11);
+	font-size: large;
+	font-weight: bold;
+  }
+  footer{
+    height: 90px;
+    text-align: center;
+	color: rgb(58, 55, 55);
+	font-weight: bold;
+	margin-top: 30px;
+	font-size: larger;
+	
+  }
+  
